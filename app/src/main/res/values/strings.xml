@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trabajo</string>
+    <string name="title_activity_ventana1">VentanaActivity1</string>
+    <string name="title_activity_nueva_ventana1">NuevaVentana1Activity</string>
+</resources>
